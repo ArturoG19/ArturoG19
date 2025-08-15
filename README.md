@@ -3,7 +3,7 @@
 </div>
 <img width="1584" height="396" alt="Negro_ecnología_Banner_de_LinkedIn" src="https://github.com/user-attachments/assets/d8d0e4d2-8ce5-4f94-b576-1d0741ec464d" />
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arturo-gomez-r-bio)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com-in-arturo-gomez-r-bio)
 
 <h1>
   Hola soy Arturo. ¡Encantado de conocerte!
