@@ -20,7 +20,7 @@ Apasionado de la tecnología y emprendiendo de una transición laboral al Data A
 - 🌱 Estoy aprendiendo a aplicar mis conocimientos en problemas reales y obtener insights que puden otrogar soluciones.
 - 🤔 Estoy en la busqeda de un empleo que me permita pulir mis nuevos conocimientos y reslatar mis aptitudes.
 - ⚡ Soy proactivo, entiendo rapido y me gusta aprender cosas nuevas
-- 📫 Para contactarme esta mi Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Arturo-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arturo-gomez-r-bio)
+- 📫 Para contactarme esta mi Linkedin www.linkedin.com/in/arturo-gomez-r-bio
 - 📫 O mi correo biol.arturo.gomez.r@gmail.com
   
 ### :hammer_and_wrench: Lenguajes y herramientas :
@@ -50,7 +50,7 @@ Passionate about technology and currently transitioning into a career in Data An
 - 🌱 I'm learning to apply my knowledge to real-world problems and extract insights that can lead to solutions.
 - 🤔 I'm looking for a job that allows me to refine my new skills and highlight my strengths.
 - ⚡ I'm proactive, a fast learner, and I enjoy discovering new things.
-- 📫 You can contact me via my LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Arturo-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arturo-gomez-r-bio)
+- 📫 You can contact me via my LinkedIn www.linkedin.com/in/arturo-gomez-r-bio
 - 📫 Or by email at biol.arturo.gomez.r@gmail.com
 
 ### :hammer_and_wrench: Languages & Tools:
