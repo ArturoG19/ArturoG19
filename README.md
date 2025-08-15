@@ -23,7 +23,17 @@ Apasionado de la tecnología y emprendiendo de una transición laboral al Data A
 - 📫 Para contactarme esta mi Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Arturo-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arturo-gomez-r-bio)
 - 📫 O mi correo biol.arturo.gomez.r@gmail.com
   
+### :hammer_and_wrench: Lenguajes y herramientas :
 
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Tableau-FFBE00?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+  </a>
+
+</div>
 
 <h1>
   Hi, I'm Arturo. Nice to meet you!
@@ -43,6 +53,17 @@ Passionate about technology and currently transitioning into a career in Data An
 - 📫 You can contact me via my LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Arturo-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arturo-gomez-r-bio)
 - 📫 Or by email at biol.arturo.gomez.r@gmail.com
 
+### :hammer_and_wrench: Languages & Tools:
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Tableau-FFBE00?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+  </a>
+
+</div>
 <!--
 **ArturoG19/ArturoG19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
